@@ -43,6 +43,7 @@ h1{
 .button-header {
     margin-top: 10px;
     display: grid;
+    padding-right: 15px;
     align-items:center ;
     grid-template-columns: 4fr 1fr 1fr;
     width: 90%;
